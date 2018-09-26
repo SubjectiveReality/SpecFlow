@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TestProfile xmlns="http://www.specflow.org/schemas/plus/TestProfile/1.5" >
-    <Settings projectName="EBOA.AcceptanceTests" projectId="{23c37761-c829-4a62-9c9f-91df48006b99}" />
+    <Settings projectName="Sample" projectId="{23c37761-c829-4a62-9c9f-91df48006b99}" />
     <Execution stopAfterFailures="50" testThreadCount="1" testSchedulingMode="Sequential" retryFor="None" retryCount="0" />
   <TestAssemblyPaths>
     <TestAssemblyPath>Sample.dll</TestAssemblyPath>
